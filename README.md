@@ -11,7 +11,7 @@
   <code><a href="https://www.instagram.com/l_rohitsoni_l/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<h3 align="center">I’m a Full Stack Web Developer with expertise in building and designing websites and web apps. I specialize in HTML, CSS, SCSS, JavaScript, React, Node.js, and Express.js. I enjoy working with both frontend and backend technologies to create seamless user experiences and robust functionality.</h3>
+<h3 align="center">"🚀 Full Stack Web Developer | Passionate about creating seamless user experiences and robust backend functionality. Skilled in HTML, CSS, SCSS, JavaScript, React, Node.js, and Express.js. Always exploring new technologies and best practices to build scalable web applications."</h3>
 
 
 <hr>
