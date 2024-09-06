@@ -12,7 +12,16 @@
 </h5>
 <br>
 <h3 align="center">"🚀 Full Stack Web Developer | Passionate about creating seamless user experiences and robust backend functionality. Skilled in HTML, CSS, SCSS, JavaScript, React, Node.js, and Express.js. Always exploring new technologies and best practices to build scalable web applications."</h3>
+<hr>
 
+🌱 Currently Exploring <br/>
+I’m diving into Node.js, expanding my backend development skills and building robust server-side applications.
+
+💼 Collaboration <br/>
+Open to collaborating on web development projects—let's create something amazing together!
+
+📫 Connect with Me<br/>
+Feel free to reach out at rebelindia01@gmail.com or connect with me on <a href="https://www.linkedin.com/in/rohit-verma769/" title="LinkedIn Profile"><img width="15" src="images/linkedin.svg"> LinkedIn.</a>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
