@@ -24,7 +24,7 @@ Open to collaborating on web development projects—let's create something amazi
 Feel free to reach out at rebelindia01@gmail.com or connect with me on <a href="https://www.linkedin.com/in/rohit-verma769/" title="LinkedIn Profile"><img width="15" src="images/linkedin.svg"> LinkedIn.</a>
 
 **🚀 Portfolio Link**
-- *My Portfolio* :- https://rohitportfolio769.netlify.app/
+- *My Portfolio* :- [https://rohitportfolio769.netlify.app/](https://my-portfolio-rho-ten-65.vercel.app/)
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
